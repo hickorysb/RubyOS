@@ -1,0 +1,9 @@
+C:\Users\lolk4\source\repos\RubyOS\RubyOS\bin\Debug\netcoreapp2.0\cosmos\RubyOS.deps.json
+C:\Users\lolk4\source\repos\RubyOS\RubyOS\bin\Debug\netcoreapp2.0\cosmos\RubyOS.dll
+C:\Users\lolk4\source\repos\RubyOS\RubyOS\bin\Debug\netcoreapp2.0\cosmos\RubyOS.pdb
+C:\Users\lolk4\source\repos\RubyOS\RubyOS\obj\Debug\netcoreapp2.0\cosmos\RubyOS.csprojAssemblyReference.cache
+C:\Users\lolk4\source\repos\RubyOS\RubyOS\obj\Debug\netcoreapp2.0\cosmos\RubyOS.csproj.CoreCompileInputs.cache
+C:\Users\lolk4\source\repos\RubyOS\RubyOS\obj\Debug\netcoreapp2.0\cosmos\RubyOS.AssemblyInfoInputs.cache
+C:\Users\lolk4\source\repos\RubyOS\RubyOS\obj\Debug\netcoreapp2.0\cosmos\RubyOS.AssemblyInfo.cs
+C:\Users\lolk4\source\repos\RubyOS\RubyOS\obj\Debug\netcoreapp2.0\cosmos\RubyOS.dll
+C:\Users\lolk4\source\repos\RubyOS\RubyOS\obj\Debug\netcoreapp2.0\cosmos\RubyOS.pdb
