@@ -18,12 +18,12 @@ namespace RubyOS.System
             {
                 try
                 {
+                    Console.Clear();
                     foreach (string s in FileSys.GetDirFadr(@"0:\"))
                     {
                         if (s != "Dir Testing" && s != "TEST")
                         {
                             Directory.Delete(@"0:\" + s, true);
-                            Console.WriteLine("Deleted: " + s);
                         }
                     }
                     bool passwordsMatch = false;
